@@ -1,0 +1,1 @@
+Synchronize - Intelligent Diagnosis
