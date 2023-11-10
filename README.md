@@ -7,4 +7,4 @@ Os desenvolvedores precisam se autenticar e pagar pelo uso da API do GPT, que ge
 
 https://openai.com/product - key
 
-main - chatService.java
+main - apiGPT - chatService.java
